@@ -2,9 +2,9 @@
 <hr>
 Application to use prediction the selling product after week. Fully flexible code, and allowing you to edit it. this application using regresion linear formula to predict the data.
 
-![ADD DATA](/blob/master/screenshot/ADD.gif)
-![COUNT DATA](/blob/master/screenshot/COUNT.gif)
-![UI](/blob/master/screenshot/UI.gif)
+![ADD DATA](/screenshot/ADD.gif)
+![COUNT DATA](/screenshot/COUNT.gif)
+![UI](/screenshot/UI.gif)
 
 
 ## Packge Using
